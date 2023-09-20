@@ -7,13 +7,15 @@ This course is designed as a graduate level class in a workshop format to give s
 
 The major outcome for the class for each student will be a new and independent analysis of a substantial space-time dataset, a formal manuscript describing the motivation, methods, and results of this analysis, and a professional oral presentation.  Students are encouraged to bring with them or seek out data relevant to their research to use for their final project.  Ideally, students' final projects will provide the material for a thesis chapter and/or peer-reviewed article. 
 
+The course was inspired by and initially based on an objective analysis/spatiotemporal data analysis class taught by [Mike Evans](https://www.geol.umd.edu/~mnevans/).
+ 
 ## General Schedule
 
-August 23 to August 31 - [Introduction to Python](https://github.com/kanchukaitis/spatiotemporal_data_analysis/tree/819d6db721c34aa39680e7ff4f72a57fe6611cb9/01_introduction_to_python) and [Linear Algebra](https://github.com/kanchukaitis/spatiotemporal_data_analysis/tree/main/02_linear_algebra)
+August 23 to August 31 - [Introduction to Python](https://github.com/kanchukaitis/spatiotemporal_data_analysis/tree/819d6db721c34aa39680e7ff4f72a57fe6611cb9/01_introduction_to_python), [`NumPy`](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/01_introduction_to_python/introduction_to_numpy.ipynb), [`Pandas`](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/01_introduction_to_python/introduction_to_pandas_part_1.ipynb), `Matplotlib` ([Part 1](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/01_introduction_to_python/introduction_to_matplotlib_part_1.ipynb) and [Part2](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/01_introduction_to_python/introduction_to_matplotlib_part_2.ipynb)) and [Linear Algebra](https://github.com/kanchukaitis/spatiotemporal_data_analysis/tree/main/02_linear_algebra)
 
-August 31 to September 12 - [Variance, covariance, and correlation](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/03_covariance/covariance_correlation.ipynb)
+August 31 to September 12 - Variance, covariance, and correlation -- [Part 1](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/03_covariance/covariance_correlation.ipynb) and [Part 2](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/03_covariance/covariance_correlation_part2.ipynb) -- plus an [introduction to `xarray`](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/01_introduction_to_python/introduction_to_xarray.ipynb)
 
-September 12 to September 21 - Introduction to Empirical Orthogonal Functions
+September 14 to September 21 - Introduction to Empirical Orthogonal Functions -- [Part 1](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/04_eofs/eof_with_iris.ipynb) and Part 2 -- plus [mapping with `Matplotlib` and `Cartopy`](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/01_introduction_to_python/introduction_to_matplotlib_part_2.ipynb)
 
 September 21 to September 28 - EOF significance, meaningfulness, and interpretation
 
@@ -40,3 +42,9 @@ Here are the basic steps:
 * Install Visual Studio Code itself (https://code.visualstudio.com/download) for your system
 * Within Visual Studio Code, install the Python extensions (from Microsoft)
 * Test your system 
+
+## License
+
+This work is licensed under a <a rel="license" href="https://creativecommons.org/licenses/by-nc/3.0/us/">Creative Commons Attribution-NonCommercial 3.0 License (CC BY-NC 3.0 US)</a>. 
+
+You are welcome to use any of this material, so long as it is for non-commercial purposes.
