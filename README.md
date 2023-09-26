@@ -3,7 +3,7 @@
 ## Overview
 This is a graduate course taught as GEOG696c (the physical geography seminar) at the University of Arizona.  The class was last taught in Fall 2023.  The full syllabus is available [here](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/c70773af70425a7ffa5c0f13320f57c5dafd5565/geog696c_syllabus.pdf).
 
-This course is designed as a graduate level class in a workshop format to give students a theoretical framework, practical experience, expert knowledge, and statistical tools for analyzing spatiotemporal datasets. Topics include basic matrix algebra and statistics, exploratory data analysis, field correlation and regression analysis, autocorrelation and its statistical consequences in time and space, parametric and non-parametric significance testing and error analysis, empirical orthogonal functions including rotation, singular spectrum analysis, maximum covariance and canonical correspondence analysis, and traditional and multitaper spectral analysis.  The course encompasses instruction and training in Python and in the use and manipulation of large multi-dimensional datasets.
+This course is designed as a graduate level class in a workshop format to give students a theoretical framework, practical experience, expert knowledge, and statistical tools for analyzing spatiotemporal datasets. It is fundamentally about [building tools](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2011EO500010) and practical understanding so that students can intelligently apply these techniques in their own research. Topics include basic matrix algebra and statistics, exploratory data analysis, field correlation and regression analysis, autocorrelation and its statistical consequences in time and space, parametric and non-parametric significance testing and error analysis, empirical orthogonal functions including rotation, singular spectrum analysis, maximum covariance and canonical correspondence analysis, and traditional and multitaper spectral analysis.  The course encompasses instruction and training in Python and in the use and manipulation of large multi-dimensional datasets.
 
 The major outcome for the class for each student will be a new and independent analysis of a substantial space-time dataset, a formal manuscript describing the motivation, methods, and results of this analysis, and a professional oral presentation.  Students are encouraged to bring with them or seek out data relevant to their research to use for their final project.  Ideally, students' final projects will provide the material for a thesis chapter and/or peer-reviewed article. 
 
@@ -17,9 +17,9 @@ August 31 to September 12 - Variance, covariance, and correlation -- [Part 1](ht
 
 September 14 to September 21 - Introduction to Empirical Orthogonal Functions -- [Part 1](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/04_eofs/eof_with_iris.ipynb) and Part 2 -- plus [mapping with `Matplotlib` and `Cartopy`](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/01_introduction_to_python/introduction_to_matplotlib_part_2.ipynb)
 
-September 21 to September 28 - EOF significance, meaningfulness, and interpretation
+September 21 to September 28 - EOF significance, meaningfulness, and interpretation, with short lectures on [missingness](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/01_introduction_to_python/missing_data.ipynb) and [randomness](https://github.com/kanchukaitis/spatiotemporal_data_analysis/blob/main/01_introduction_to_python/random_arrays.ipynb).
 
-September 28 to October 10 - EOF interpretation and orthogonal rotation
+September 28 to October 10 - EOF interpretation and (orthogonal) rotation
 
 October 17 to October 19 - Analysis of coupled fields
 
